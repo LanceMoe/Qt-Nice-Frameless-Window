@@ -79,5 +79,5 @@ QString MainWindow::currentMargins()
 
 void MainWindow::on_btnResizeable_clicked()
 {
-    setResizeable(!isResizeable());
+//    setResizeable(!isResizeable());
 }
